@@ -46,7 +46,4 @@ This repository is meant to be **educational**, with readable code and minimal a
 
 ## 📷 Screenshot / Demo
 
-You can add an image or a GIF to the README like this:
-
-```markdown
-![Pose Estimation Demo](images/demo.png)
+<img width="1440" height="3120" alt="Screenshot_20251223_201735" src="https://github.com/user-attachments/assets/d08e422f-0782-4f1f-b7f7-b1b80e9e919d" />
